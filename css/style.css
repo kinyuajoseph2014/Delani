@@ -1,0 +1,140 @@
+    .introduction {
+        background-image: url("/images/background/header.jpg");
+        padding-bottom: 60%;
+        background-repeat: no-repeat;
+        text-align: center;
+        color: white;
+        background-position: top;
+    }
+    
+    .welcome {
+        position: absolute;
+        top: 40%;
+        left: 35%;
+    }
+    
+    .about-us {
+        text-align: center;
+    }
+    
+    .services {
+        background-image: url("/images/background/comp.jpg");
+        padding-bottom: 28%;
+        background-repeat: no-repeat;
+        margin-top: 30px;
+        color: white;
+        text-align: center;
+    }
+    
+    .mouse-click {
+        margin-top: 50%;
+    }
+    
+    .work {
+        margin-left: 100px;
+    }
+    
+    .centered {
+        position: absolute;
+        top: 170%;
+        left: 25%;
+    }
+    
+    .contact {
+        background-image: url("/images/background/footer.jpg");
+        padding-bottom: 5%;
+        background-position: top;
+    }
+    
+    h3 {
+        text-align: center;
+        color: white;
+        margin-top: 100px;
+    }
+    
+    input[type=text],
+    textarea {
+        background-color: rgba(8, 8, 8, 0.1);
+        color: whitesmoke;
+        border: 1px solid white;
+    }
+    
+    .contact form {
+        margin-top: 7%;
+    }
+    
+    #boom1 {
+        display: none;
+    }
+    
+    #pic1 {
+        display: show;
+    }
+    
+    #boom2 {
+        display: none;
+    }
+    
+    #pic2 {
+        display: show;
+    }
+    
+    #boom3 {
+        display: none;
+    }
+    
+    #pic3 {
+        display: show;
+    }
+    
+    #wek1:hover {
+        background-color: white;
+        opacity: 0.2;
+    }
+    
+    #wek2:hover {
+        background-color: white;
+        opacity: 0.2;
+    }
+    
+    #wek3:hover {
+        background-color: white;
+        opacity: 0.2;
+    }
+    
+    #wek4:hover {
+        background-color: white;
+        opacity: 0.2;
+    }
+    
+    #wek5:hover {
+        background-color: white;
+        opacity: 0.2;
+    }
+    
+    #wek6:hover {
+        background-color: white;
+        opacity: 0.2;
+    }
+    
+    #wek7:hover {
+        background-color: white;
+        opacity: 0.2;
+    }
+    
+    #wek8:hover {
+        background-color: white;
+        opacity: 0.2;
+    }
+    
+    .work p {
+        position: relative;
+        font-size: 30px;
+        top: -50%;
+        text-align: center;
+        display: none;
+    }
+    
+    .work {
+        margin-left: 0px;
+    }
