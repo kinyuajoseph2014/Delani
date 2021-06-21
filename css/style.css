@@ -1,5 +1,5 @@
     .introduction {
-        background-image: url("/images/background/header.jpg");
+        background-image: url("../images/background/header.jpg");
         padding-bottom: 60%;
         background-repeat: no-repeat;
         text-align: center;
@@ -18,7 +18,7 @@
     }
     
     .services {
-        background-image: url("/images/background/comp.jpg");
+        background-image: url("../images/background/comp.jpg");
         padding-bottom: 28%;
         background-repeat: no-repeat;
         margin-top: 30px;
@@ -41,7 +41,7 @@
     }
     
     .contact {
-        background-image: url("/images/background/footer.jpg");
+        background-image: url("../images/background/footer.jpg");
         padding-bottom: 5%;
         background-position: top;
     }
